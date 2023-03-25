@@ -1,0 +1,16 @@
+body {
+    background-color: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(28,30,31,1) 51%, rgba(103,136,143,1) 100%);
+    font-family:'Press Start 2P';
+}
+
+canvas {
+    border: 5px solid #2e3e4e;
+    border-radius: 10px;
+    display: block;
+    margin: auto;
+    box-shadow: 0 4px 6px rgba(58, 55, 55, 0.774);
+    background-image: url('assets/flappy_bird_background_image.mhtml');
+    background-size: cover;
+    background-repeat: no-repeat;
+    z-index: 1;
+}
